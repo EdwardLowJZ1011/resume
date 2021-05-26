@@ -21,7 +21,7 @@ export const user = {
         "DESC": "Huawei Technology (M) Sdn Bhd",
         "YEAR": "[September 2019 - December 2019]"
     }, {
-        "TITLE": "Acconting Officer  (Form 5 Part-time)",
+        "TITLE": "Accounting Officer  (Form 5 Part-time)",
         "DESC": "Skala Teguh Sdn Bhd",
         "YEAR": "[June 2015 - January 2016]"
     }

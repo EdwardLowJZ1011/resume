@@ -1,0 +1,13 @@
+[debug] [2021-05-26T07:16:25.793Z] ----------------------------------------------------------------------
+[debug] [2021-05-26T07:16:25.796Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\jinzh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-05-26T07:16:25.797Z] CLI Version:   9.11.0
+[debug] [2021-05-26T07:16:25.797Z] Platform:      win32
+[debug] [2021-05-26T07:16:25.797Z] Node Version:  v15.5.1
+[debug] [2021-05-26T07:16:25.801Z] Time:          Wed May 26 2021 15:16:25 GMT+0800 (Singapore Standard Time)
+[debug] [2021-05-26T07:16:25.801Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-26T07:16:25.818Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-26T07:16:25.818Z] > authorizing via signed-in user (jinzhang0620@gmail.com)
+[debug] [2021-05-26T07:16:25.818Z] [iam] checking project reactresume-32cfb for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-05-26T07:16:25.821Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/reactresume-32cfb:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
